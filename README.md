@@ -1,2 +1,2 @@
 # Quantum-Machine-Learning
-It contains simulations and software for quantum machine learning
+It contains simulations and quantum programming methods for quantum machine learning
